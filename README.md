@@ -17,3 +17,6 @@ The following datasets are included:
    - GrailQA_WebQSP: 100 randomly sampled questions from the train split of the WebQSP dataset, as the target few shots, along with 500 randomly sampled questions from the test split of the WebQSP dataset, as the test split.
    - WebQSP_GrailQATech: 100 randomly sampled questions from the train split of the GrailQA dataset, from technical domains, as the target few shots, along with 500 randomly sampled questions from the test split of the GrailQA dataset, from technical domains, as the test split.
    - WebQSP_GraphQAPop: 100 randomly sampled questions from the train split of the GraphQA dataset, from popular domains, as the target few shots, along with 500 randomly sampled questions from the test split of the GraphQA dataset, from popular domains, as the test split.
+
+3. New KG (results in table 5 of the paper)
+   - The file contains 70 questions based on Microsoft Academic KG, annotated with sparql queries. 
